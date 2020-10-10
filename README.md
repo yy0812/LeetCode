@@ -1,4 +1,4 @@
-# LeetCode题目分类与面试问题整理
+# LC题目分类与问题整理
 
 > [English edition](/README_EN.md)
 
@@ -130,6 +130,6 @@
 
 -------
 
-## 面试问题整理
+## 问题整理
 
-- [面试问题整理](/Rocket.md)
+- [问题整理](/Rocket.md)
